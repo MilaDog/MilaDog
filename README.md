@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/header.svg" alt="Header Image">
 
-<p align="center">Hello!<br> I am a random person from South Africa<br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=MilaDog.vistor-badge" alt="visitor badge">
-    <img src="https://badgen.net/badge/icon/MilaDog%238249?icon=discord&label">
-</p>
+<p align="center">Hello!<br> I am a random person from South Africa<br><br></p>
 
 ---
 
@@ -23,9 +20,13 @@
 <p align="center">
     <i><br>Want to connect and chat? Socials below</i>
     <p align="center">
-        <a href="https://twitter.com/danny1_ryan" alt="Twitter"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/twitter.svg"></a>
-        <a href="https://reddit.com/user/danny1_ryan" alt="Reddit"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/reddit.svg"></a>        
-        <a href="mailto:daniel.ryan.sergeant@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/mail.svg"></a>
+        <a href="https://twitter.com/danny1_ryan" alt="Twitter"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></a>
+        <a href="https://reddit.com/user/danny1_ryan" alt="Reddit"><img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></a>        
+        <a href="mailto:daniel.ryan.sergeant@gmail.com" alt="Contact me"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></a>        
+        <img src="https://img.shields.io/static/v1?message=MilaDog%238349&logo=discord&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20">
+        <br>
+        <br>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=MilaDog.vistor-badge" alt="visitor badge">
     </p>
 </p>
 
