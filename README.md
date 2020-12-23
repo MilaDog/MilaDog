@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MilaDog/MilaDog/c2c07a37397be5c41599adb1d6737dbc271dc978/readme/header.svg" alt="Header Image">
+<img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/header.svg" alt="Header Image">
 
 <p align="center">Hello!<br> I am a random person from South Africa<br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=MilaDog.vistor-badge" alt="visitor badge">
@@ -23,9 +23,9 @@
 <p align="center">
     <i><br>Want to connect and chat? Socials below</i>
     <p align="center">
-        <a href="https://twitter.com/danny1_ryan" alt="Twitter"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/329d8611db62c91d84c48564efa7227ddbd5aa79/readme/twitter.svg"></a>
-        <a href="https://reddit.com/user/danny1_ryan" alt="Reddit"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/329d8611db62c91d84c48564efa7227ddbd5aa79/readme/reddit.svg"></a>        
-        <a href="mailto:daniel.ryan.sergeant@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/329d8611db62c91d84c48564efa7227ddbd5aa79/readme/gmail.svg"></a>
+        <a href="https://twitter.com/danny1_ryan" alt="Twitter"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/twitter.svg"></a>
+        <a href="https://reddit.com/user/danny1_ryan" alt="Reddit"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/reddit.svg"></a>        
+        <a href="mailto:daniel.ryan.sergeant@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/mail.svg"></a>
     </p>
 </p>
 
