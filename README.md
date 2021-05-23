@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/header.svg" alt="Header Image">
 
 <!-- start welcome -->
-# Hallo, Oke! <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/master/readme/wave.gif" width="30px">
+# Well, Hello There <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/master/readme/wave.gif" width="30px">
 <!-- end welcome -->
 
 ---
