@@ -14,7 +14,7 @@
 ---
 
 <!-- start details -->
-<details open>
+<details close>
     <summary>Github Statistics</summary>
 <br>
 <p align="center">
