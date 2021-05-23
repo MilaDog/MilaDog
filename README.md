@@ -1,14 +1,13 @@
 <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/header.svg" alt="Header Image">
 
 <!-- start welcome -->
-<p align="center" style="font-size:30px">Hello! <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/master/readme/wave.gif" width="30px">
-</p>
+# Hallo, Oke! <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/master/readme/wave.gif" width="30px">
 <!-- end welcome -->
 
 ---
 
 <!-- start details about me -->
-<p>I am Daniel Ryan Sergeant, or MilaDog (if that is how you first came to know me <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/328fcb1eb6b8fe7d9cec123e1e6aec8138d30de0/readme/party_popper.png" size="30px"> )</p>
+<p>I am Daniel Ryan Sergeant, or MilaDog (if that is how you first came to know me <img src="https://raw.githubusercontent.com/MilaDog/MilaDog/master/readme/party_popper.png" width="15px"> )</p>
 <p>I currently reside in South Africa.<br>I am 19 years of age and am currently, in my own time, learning Python.</p>
 <!-- end details about me -->
 
