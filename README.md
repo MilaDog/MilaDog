@@ -30,8 +30,6 @@
 </details>
 <!-- end details -->
 
-<br>
-
 <!--- Start Discord group -->
 <details close>
     <summary>Discord</summary>
