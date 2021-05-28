@@ -30,13 +30,26 @@
 </details>
 <!-- end details -->
 
+<br>
+
+<!--- Start Discord group -->
+<details close>
+    <summary>Discord</summary>
+<br>
+<p align="center">
+    <a href="https://discord.c99.nl/">
+        <img src="https://discord.c99.nl/widget/theme-4/212643981593411584.png" align="center">
+    </a>
+</p>
+</details>
+<!-- end Discord group -->
+
 <!-- start get in contact -->
 <p align="center">
     <i><br>Want to get into contact? My current socials below</i>
     <p align="center">
         <a href="https://twitter.com/danny1_ryan" alt="Twitter"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></a>
-        <a href="mailto:daniel.ryan.sergeant@gmail.com" alt="Contact me"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></a>        
-        <img src="https://img.shields.io/static/v1?message=MilaDog%238349&logo=discord&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20">
+        <a href="mailto:daniel.ryan.sergeant@gmail.com" alt="Contact me"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"></a>    
         <br>
         <br>
         <img src="https://visitor-badge.glitch.me/badge?page_id=MilaDog.vistor-badge" alt="visitor badge">
